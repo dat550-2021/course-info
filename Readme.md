@@ -173,7 +173,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |      |  7/4     |           |  Deep learning on graphs (network embeddings)  |         |              |
 |      |  9/4      |       |  Work on project ||               |
 |   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |       |              |
-|      |  14/4      |         |   Guest lecture 2 (Time series analysis) ||     Given by  Magnus Book            |
+|      |  14/4      |         |   Guest lecture 3 (Time series analysis) ||     Given by  Magnus Book            |
 |    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
 |   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
 |      |  21/4     |    |  Project presentation + Q&A                   |       |              |
