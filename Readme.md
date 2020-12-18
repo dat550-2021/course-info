@@ -16,8 +16,6 @@
 
 ## Autograder
 
-## Autograder
-
 This course uses Autograder, a tool developed at the University of Stavanger
 for students and teaching staff to manage the submission and validation of
 lab assignments. All lab submissions from students are handled using Git,
