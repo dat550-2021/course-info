@@ -150,7 +150,6 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |     |   12/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced                      |       |              
 |  7    |  15/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5]([hands-on-1](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-5))    |              |
 |      |  17/2     |   6        |    Linear Regression  |  [slides]() [video]()     |              |
-|
 |      |  19/2     |    Lab      |  Work on Lab assignment 3 (Recommender Systems) **Project topic selection due**        |         |            |
 |  8   |  22/2     |         |   Logistic Regression                                 | [slides]() [video]()       |              |
 |      |  24/2     |      |  Support Vector Machines (SVM)                        |      |              |
