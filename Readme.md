@@ -169,10 +169,10 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |  13  |  29/3      |           |   Easter (No lecture)                                    |       |              |
 |      |  1/4     |           |    Easter (No lecture) |        |              |
 |      |  3/4     |           |     Easter (No lab)                     |     |              |
-|  14  |  5/4     |           |     Work on project                               |       |              |
-|      |  7/4     |           |  Deep learning on graphs (network embeddings)  |    [slides]() [video]()      |              |
+|  14  |  5/4     |           |     Deep learning on graphs (network embeddings)                               |       |              |
+|      |  7/4     |           |   Clustering (K-means, K-medoids)   |    [slides]() [video]()      |              |
 |      |  9/4      |       |  Work on project ||               |
-|   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |   [slides]() [video]()     |              |
+|   15   |  12/4     |           |    Clustering (Hierarchical, EM)                    |   [slides]() [video]()     |              |
 |      |  14/4      |         |   Guest lecture 3 (Time series analysis) |   [slides]() [video]() |     Given by  Magnus Book            |
 |    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
 |   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
