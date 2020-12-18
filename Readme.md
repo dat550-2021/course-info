@@ -1,7 +1,7 @@
 # Overview
-- [Course Structure](#Course Structure)
+- [Course Structure](#Course_Structure)
 - [Labs](#Labs)
-- [Schedule](#Lecture and Lab Plan) 
+- [Schedule](#Schedule) 
 - [Updates](#Updates)
 
 # Updates
