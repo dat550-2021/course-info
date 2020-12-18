@@ -163,17 +163,17 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |   11   |  15/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
 |      |  17/3     |      | GRU, LSTM and Transformer models                    |  |              |
 |   |  19/3      |     Lab      |    Work on project                    |       |                 |
-|  12    |  22/3      |         |  Guest lecture 1 (Deep Reinforcement Learning) ||     Given by  Diana Spencer                             |       |         |
-|      |  24/3      |         |    Guest lecture 2 (Deep Reinforcement Learning) ||     Given by  Diana Spencer           |
+|  12    |  22/3      |         |  Guest lecture 1 (Deep Reinforcement Learning) |  [slides]() [video]() |     Given by  Diana Spencer                             |       |         |
+|      |  24/3      |         |    Guest lecture 2 (Deep Reinforcement Learning) |   [slides]() [video]() |     Given by  Diana Spencer           |
 |      |  26/3      |   Lab    |  Work on project ||               |
 |  13  |  29/3      |           |   Easter (No lecture)                                    |       |              |
 |      |  1/4     |           |    Easter (No lecture) |        |              |
 |      |  3/4     |           |     Easter (No lab)                     |     |              |
 |  14  |  5/4     |           |     Work on project                               |       |              |
-|      |  7/4     |           |  Deep learning on graphs (network embeddings)  |         |              |
+|      |  7/4     |           |  Deep learning on graphs (network embeddings)  |    [slides]() [video]()      |              |
 |      |  9/4      |       |  Work on project ||               |
-|   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |       |              |
-|      |  14/4      |         |   Guest lecture 3 (Time series analysis) ||     Given by  Magnus Book            |
+|   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |   [slides]() [video]()     |              |
+|      |  14/4      |         |   Guest lecture 3 (Time series analysis) |   [slides]() [video]() |     Given by  Magnus Book            |
 |    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
 |   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
 |      |  21/4     |    |  Project presentation + Q&A                   |       |              |
