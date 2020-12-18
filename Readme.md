@@ -162,10 +162,10 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |     |  12/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
 |   11   |  15/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
 |      |  17/3     |      | GRU, LSTM and Transformer models                    |  |              |
-|   |  19/3      |           |    Work on project                    |       |                 |
-|  12    |  22/3      |         |   No lecture                             |       |         |
-|      |  24/3      |         |   Guest lecture 1 (Deep Reinforcement Learning) ||     Given by  Diana Spencer            |
-|      |  26/3      |       |  Work on project ||               |
+|   |  19/3      |     Lab      |    Work on project                    |       |                 |
+|  12    |  22/3      |         |  Guest lecture 1 (Deep Reinforcement Learning) ||     Given by  Diana Spencer                             |       |         |
+|      |  24/3      |         |    Guest lecture 2 (Deep Reinforcement Learning) ||     Given by  Diana Spencer           |
+|      |  26/3      |   Lab    |  Work on project ||               |
 |  13  |  29/3      |           |   Easter (No lecture)                                    |       |              |
 |      |  1/4     |           |    Easter (No lecture) |        |              |
 |      |  3/4     |           |     Easter (No lab)                     |     |              |
