@@ -11,7 +11,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 
 1. Initially, you will get access to two repositories when you have signed up on Autograder.
 
-   The first is the [`assignments`](https://github.com/dat320-2020/assignments) repository, which is where we publish all lab assignments, skeleton code and additional information.
+   The first is the [`assignments`](https://github.com/dat550-2021/assignments) repository, which is where we publish all lab assignments, skeleton code and additional information.
    You only have read access to this repository, and its content may change throughout the semester, as we add new assignments or fix problems.
 
    The second is your own private repository named `username-labs`.
@@ -19,18 +19,18 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    Your solution to the assignments should be pushed here.
 
 2. To get started, decide on a suitable location for your workspace for the course.
-   In this guide we will use `$HOME/dat320-2020` as the workspace.
+   In this guide we will use `$HOME/dat550-2021` as the workspace.
    Do the following making sure to replace `username` with your GitHub user name:
 
    Alternative 1 (preferred):
    (These steps requires that you have already set up your GitHub user with SSH keys.)
 
    ```console
-   mkdir $HOME/dat320-2020
-   cd $HOME/dat320-2020
-   git clone git@github.com:dat320-2020/username-labs assignments
+   mkdir $HOME/dat550-2021
+   cd $HOME/dat550-2021
+   git clone git@github.com:dat550-2021/username-labs assignments
    cd assignments
-   git remote add course-assignments git@github.com:dat320-2020/assignments
+   git remote add course-assignments git@github.com:dat550-2021/assignments
    git pull course-assignments master
    ```
 
@@ -38,11 +38,11 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    (These steps will require that you type your GitHub password every time you access your GitHub repository.)
 
    ```console
-   mkdir $HOME/dat320-2020
-   cd $HOME/dat320-2020
-   git clone https://github.com/dat320-2020/username-labs assignments
+   mkdir $HOME/dat550-2021
+   cd $HOME/dat550-2021
+   git clone https://github.com/dat550-2021/username-labs assignments
    cd assignments
-   git remote add course-assignments https://github.com/dat320-2020/assignments
+   git remote add course-assignments https://github.com/dat550-2021/assignments
    git pull course-assignments master
    ```
 
@@ -76,7 +76,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    own private repository on GitHub:
 
    ```console
-   cd $HOME/dat320-2020/assignments/lab1
+   cd $HOME/dat550-2021/assignments/lab1
    vim shell_questions.md
    # make your edits and save
    git add shell_questions.md
@@ -134,7 +134,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 ## Update Local Working Copy from Course Assignments
 
 1. As time goes by the teaching staff may publish updates to the
-   course [assignments](https://github.com/dat320-2020/assignments) repo,
+   course [assignments](https://github.com/dat550-2021/assignments) repo,
    e.g. new or updated lab assignments.
    First, check that your local working copy is clean using `git status`, which
    should instruct you to either commit your local changes or to restore any files
@@ -182,13 +182,13 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 
 To work on group assignments, you need to clone your group's repository to your own machine, and pull the `assignments` repository into the group's repository.
 In the instructions below, replace `groupname` with your group's repository name.
-We assume you have already created the `dat320-2020` directory on your machine.
+We assume you have already created the `dat550-2021` directory on your machine.
 
 ```console
-cd $HOME/dat320-2020
-git clone git@github.com:dat320-2020/groupname.git
+cd $HOME/dat550-2021
+git clone git@github.com:dat550-2021/groupname.git
 cd groupname
-git remote add course-assignments git@github.com:dat320-2020/assignments
+git remote add course-assignments git@github.com:dat550-2021/assignments
 git pull course-assignments master
 ```
 
