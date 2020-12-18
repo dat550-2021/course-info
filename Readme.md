@@ -1,6 +1,7 @@
 # Overview
-[Course Structure](#Course_Structure)
-[Labs](#Labs)
+- [Course Structure](#Course_Structure)
+- [Labs](#Labs)
+- [Schedule](#Lecture_and_Lab_Plan)
 
 # Lecture schedule
 
