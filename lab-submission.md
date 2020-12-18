@@ -3,7 +3,6 @@
 This section give step-by-step instructions on how to submit assignments.
 In the following, you are expected to run commands from a terminal environment.
 
-Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu.be/Ewoax8goysg) and [Part 2 (~19 minutes)](https://youtu.be/rWrrrmgur4g).
 
 - On macOS, Terminal can be started via Spotlight, by typing the first few letters of `terminal`.
 - On Ubuntu Linux, you can click on the Activities item at the top left of the screen, then type the first few letters of `terminal`.
@@ -99,6 +98,8 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 
 10. If some of the autograder tests fail, you may make changes to your code/answers as many times as you like up until the deadline.
     Changes after the deadline will count against the slip days.
+
+Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu.be/Ewoax8goysg) and [Part 2 (~19 minutes)](https://youtu.be/rWrrrmgur4g) done by Prof. Hein Meling in the context of a different course dat320-2020.
 
 ## Final Submission of LabX
 
