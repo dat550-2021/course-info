@@ -3,8 +3,6 @@
 - [Labs](#Labs)
 - [Schedule](#Lecture_and_Lab_Plan)
 
-# Lecture schedule
-
 # Course Structure
 
 # Labs
