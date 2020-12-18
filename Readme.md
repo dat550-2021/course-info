@@ -2,8 +2,15 @@
 - [Course Structure](#Course_Structure)
 - [Labs](#Labs)
 - [Schedule](#Lecture_and_Lab_Plan)
+- [Updates](#Updates)
+
+# Updates
 
 # Course Structure
+- The course is currently fully online including the lectures and the labs
+- Video lectures for a week will be posted by Sunday before before the week
+- Live zoom call discussions will happen during the lecture
+- Make an appointment with the student assistants for the help with lab
 
 # Labs
 
