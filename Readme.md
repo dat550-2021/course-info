@@ -139,7 +139,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |   3   |  18/1     |    3       |   Decision trees regression                                  |   [slides]() [video]()     |              |
 |      |  20/1     |    6       |  Ensemble methods, Random forests   |   [slides]() [video]()       |              |
 |      |  22/1    |          |  Lab assignment 1 continued                     |       |              |
-|   4   |  25/1     |  ch 3 from MMDS book         |    LSH      |   slides]() [video]()   |              |
+|   4   |  25/1     |  ch 3 from MMDS book         |    Locality Sensitive Hashing (LSH)      |   [slides]() [video]()   |              |
 |      |  27/1     |             |  LSH Continued       |        |              |
 |      |  29/1     |          |  **Lab assignment 1 Due** and Lab assignment 2 announced                     |       |              |
 |   5   |  1/2     |          |  Dimensionality reduction SVD, PCA   |  [slides]() [video]()      |            |
