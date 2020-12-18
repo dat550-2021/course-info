@@ -147,19 +147,20 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 |      |  5/2     |    Lab      |  Work on Lab assignment 2 (LSH)  |         |            |
 |   6   |  8/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides]() [video]()   [Exercise](https://github.com/dat550-2021/course-info/blob/master/exercises/Exercise-3.pdf) |              |
 |      |  10/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides]() [video]()       |              |
-|     |   12/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced                      |       |              
+|      |  12/2     |    Lab      |  Work on Lab assignment 2 (LSH)       |         |            |
 |  7    |  15/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-5)    |              |
 |      |  17/2     |   6        |    Linear Regression  |  [slides]() [video]()     |              |
-|      |  19/2     |    Lab      |  Work on Lab assignment 3 (Recommender Systems) **Project topic selection due**        |         |            |
+
+|     |   12/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced                      |       |              
 |  8   |  22/2     |         |   Logistic Regression                                 | [slides]() [video]()       |              |
 |      |  24/2     |      |  Support Vector Machines (SVM)                        |      |              |
-|     |  26/2     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
+|      |  26/2     |    Lab      |  Work on Lab assignment 3 (SVD/Recommendation Systems)  **Project selection due**     |         |            |
 |   9   |  1/3     |           |  SVM (continued)   |  [slides]() [video]()      |              |
 |      |  3/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |  [slides]() [video]() |               |
-|    |  5/3     |     Lab       |       Work on project                                        |       |              |
+|    |  5/3     |     Lab       |       Work on Lab assignment 3 (SVD/Recommendation Systems) / Work on project                                   |       |              |
 |   10   |  8/3     |           |   Convolutional Neural Networks (CNNs)     |    [slides]() [video]()  |              |
 |      |  10/3     |    | CNN Applications             |    [slides]() [video]()   |              |
-|     |  12/3     |       Lab      |  Work on project                                      |       |              |
+|     |  12/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
 |   11   |  15/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
 |      |  17/3     |      | GRU, LSTM and Transformer models                    |  |              |
 |   |  19/3      |           |    Work on project                    |       |                 |
