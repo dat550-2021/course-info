@@ -101,13 +101,13 @@ In the following, you are expected to run commands from a terminal environment.
 
 Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu.be/Ewoax8goysg) and [Part 2 (~19 minutes)](https://youtu.be/rWrrrmgur4g) done by Prof. Hein Meling in the context of a different course dat320-2020.
 
-## Final Submission of LabX
+## Final Submission of AssignmentX
 
-1. When you are finished with all the tasks for some `labX`, and you wish to submit,
+1. When you are finished with all the tasks for some `AssignmentX`, and you wish to submit,
    you may issue a commit message as follows to indicate that you are done:
 
    ```console
-   git commit -m "username labX submission"
+   git commit -m "username AssignmentX submission"
    ```
 
    The above text should be on the first line of the commit message, where `username` is your GitHub username and `X` with the lab number.
@@ -115,14 +115,14 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    If you have no changes to commit, then you can use:
 
    ```console
-   git commit --allow-empty -m "username lab1 submission"
+   git commit --allow-empty -m "username assignment1 submission"
    ```
 
    If there are any issues you want us to pay attention to, please add those comments after an empty line in the commit message.
-   If you later find a mistake and want to resubmit, please use `username labX resubmission` as the commit message.
+   If you later find a mistake and want to resubmit, please use `username AssignmentX resubmission` as the commit message.
    Note that these commit messages are not used by Autograder, they are only used to identify your lab submission commits when we do manual review.
 
-   **Note:** Your slip days usage is calculated based on the deadline of `labX` and the time when you pushed the last commit to GitHub, that touched any of the files in the `labX` folder.
+   **Note:** Your slip days usage is calculated based on the deadline of `AssignmentX` and the time when you pushed the last commit to GitHub, that touched any of the files in the `AssignmentX` folder.
 
 2. Push your changes to GitHub using:
 
