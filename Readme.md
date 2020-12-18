@@ -1,9 +1,12 @@
+# Overview
+[Course Structure](#Course_Structure)
+[Labs](#Labs)
+
+# Lecture schedule
+
 # Course Structure
 
 # Labs
-[Autograder](#Autograder)
-
-# Lecture schedule
 
 ## Autograder
 
