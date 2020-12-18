@@ -1,4 +1,9 @@
+# Course Structure
+
+# Labs
 [Autograder](#Autograder)
+
+# Lecture schedule
 
 ## Autograder
 
