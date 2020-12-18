@@ -1,3 +1,5 @@
+[Autograder](#Autograder)
+
 ## Autograder
 
 Autograder is a tool for students and teaching staff to manage the submition and
