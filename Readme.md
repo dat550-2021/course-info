@@ -1,4 +1,4 @@
-# Autograder
+## Autograder
 
 Autograder is a tool for students and teaching staff to manage the submition and
 validating lab assignments. Autograder has been developed at the University of Stavanger.
@@ -17,7 +17,7 @@ submissions.
 Below is a step-by-step explanation of how to register and sign up for the lab
 project in Autograder.
 
-## Registration
+### Registration
 
 1. Go to [GitHub](http://github.com) and register. A GitHub account is required
    to sign in to Autograder. You can skip this step if you already have an
@@ -32,7 +32,7 @@ project in Autograder.
    account for only this course if you do not want Autograder to access your
    personal one with the requested permissions.
 
-## Signing up for the course
+### Signing up for the course
 
 1. Click the Courses menu item.
 
@@ -52,7 +52,7 @@ project in Autograder.
    after your registration is verified. You will also have access to the
    feedback pages for this course on Autograder.
 
-##Lecture and Lab Plan
+# Lecture and Lab Plan
 
 (Lab submission deadlines are marked with **bold**.)
 
