@@ -124,7 +124,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 
    If you need help with registering on the server, send a message in `#new-users`.
  -->
-# Lecture and Lab Plan
+# Schedule
 
 (Lab submission deadlines are marked with **bold**.)
 
