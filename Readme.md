@@ -8,6 +8,7 @@
 
 # Course Structure
 - The lectures are currently fully online until further notice
+- First lecture will happen live on 4th Januaray 2021 12-2 pm.
 - The labs are online in week 1 and 2 and the rest will be hybrid (you can show up physically with a prior appointment with the TAs)
 - Video lectures for a week will be posted by Sunday before before the week
 - Live zoom call discussions will happen during the lecture
