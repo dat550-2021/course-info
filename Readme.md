@@ -130,52 +130,50 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  1    |  8/1      |   Lab       | Get started with github, autograder, discord registration, jupyter notebook      |
-|  2   | 11/1      |   1,2     |  Introduction          |   [slides]() [video]()      |              |
-|      | 13/1      |   2        | Data processing       |   [slides]() [video]()   |              |
-|      |  15/1      |   Lab       | numpy, pandas, sklearn       |       [hands-on-1](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-1) |              |
-|  3   |  18/1     |   2       | Data sampling, exploration, visualization  |   [slides]() [video](), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
-|      |  20/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673527)      |              |
-|     |  22/1     |    Lab       |   Work on lab assignment 1                      |       |              |
-|   4   |  25/1     |    3       |   Decision trees regression                                  |   [slides]() [video]()     |              |
-|      |  27/1     |    6       |  Ensemble methods, Random forests   |   [slides]() [video]()       |              |
-|      |  29/1    |          |  Lab assignment 1 continued                     |       |              |
-|   5   |  1/2     |  ch 3 from MMDS book         |    Locality Sensitive Hashing (LSH)      |   [slides]() [video]()   |              |
-|      |  3/2     |             |  LSH Continued       |        |              |
-|      |  5/2     |          |  **Lab assignment 1 Due** and Lab assignment 2 announced                     |       |              |
-|   6   |  8/2     |          |  Dimensionality reduction SVD, PCA   |  [slides]() [video]()      |            |
-|       |  10/2     |          | Recommender Systems (Collaborative Filtering)   |  [slides]() [video]()      |            |
-|      |  12/2     |    Lab      |  Work on Lab assignment 2 (LSH)  |         |            |
-|   7   |  15/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides]() [video]()   [Exercise](https://github.com/dat550-2021/course-info/blob/master/exercises/Exercise-3.pdf) |              |
-|      |  17/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides]() [video]()       |              |
-|      |  19/2     |    Lab      |  Work on Lab assignment 2 (LSH)       |         |            |
-|  8    |  22/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-5)    |              |
-|      |  24/2     |   6        |    Linear Regression  |  [slides]() [video]()     |              |
-|      |   26/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced     |       |         
-|  9   |  1/3     |         |   Logistic Regression                                 | [slides]() [video]()       |              |
-|      |  3/3     |      |  Support Vector Machines (SVM)                        |      |              |
-|      |  5/5     |    Lab      |  Work on Lab assignment 3 (SVD/Recommendation Systems)  **Project selection due**     |         |            |
-|   10   |  8/3     |           |  SVM (continued)   |  [slides]() [video]()      |              |
-|      |  10/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |  [slides]() [video]() |               |
-|    |  12/3     |     Lab       |       Work on Lab assignment 3 (SVD/Recommendation Systems) / Work on project                                   |       |              |
-|   11   |  15/3     |           |   Convolutional Neural Networks (CNNs)     |    [slides]() [video]()  |              |
-|      |  17/3     |    | CNN Applications             |    [slides]() [video]()   |              |
-|     |  19/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
-|   12   |  22/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
-|      |  24/3     |      | GRU, LSTM and Transformer models                    |  |              |
-|   |  26/3      |     Lab      |    Work on project                    |       |                 |
+|  1   |  4/1      |   1,2     |  Introduction          |   [slides]() [video]()      |              |
+|      |  6/1      |   2        | Data processing       |   [slides]() [video]()   |              |
+|      |  8/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       [hands-on-1](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-1) |              |
+|  2   |  11/1     |   2       | Data sampling, exploration, visualization  |   [slides]() [video](), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
+|      |  13/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673527)      |              |
+|     |  15/1     |    Lab       |   Work on lab assignment 1                      |       |              |
+|   3   |  18/1     |    3       |   Decision trees regression                                  |   [slides]() [video]()     |              |
+|      |  20/1     |    6       |  Ensemble methods, Random forests   |   [slides]() [video]()       |              |
+|      |  22/1    |          |  Lab assignment 1 continued                     |       |              |
+|   4   |  25/1     |  ch 3 from MMDS book         |    Locality Sensitive Hashing (LSH)      |   [slides]() [video]()   |              |
+|      |  27/1     |             |  LSH Continued       |        |              |
+|      |  29/1     |          |  **Lab assignment 1 Due** and Lab assignment 2 announced                     |       |              |
+|   5   |  1/2     |          |  Dimensionality reduction SVD, PCA   |  [slides]() [video]()      |            |
+|       |  3/2     |          | Recommender Systems (Collaborative Filtering)   |  [slides]() [video]()      |            |
+|      |  5/2     |    Lab      |  Work on Lab assignment 2 (LSH)  |         |            |
+|   6   |  8/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides]() [video]()   [Exercise](https://github.com/dat550-2021/course-info/blob/master/exercises/Exercise-3.pdf) |              |
+|      |  10/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides]() [video]()       |              |
+|      |  12/2     |    Lab      |  Work on Lab assignment 2 (LSH)       |         |            |
+|  7    |  15/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-5)    |              |
+|      |  17/2     |   6        |    Linear Regression  |  [slides]() [video]()     |              |
+|      |   19/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced     |       |         
+|  8   |  22/2     |         |   Logistic Regression                                 | [slides]() [video]()       |              |
+|      |  24/2     |      |  Support Vector Machines (SVM)                        |      |              |
+|      |  26/2     |    Lab      |  Work on Lab assignment 3 (SVD/Recommendation Systems)  **Project selection due**     |         |            |
+|   9   |  1/3     |           |  SVM (continued)   |  [slides]() [video]()      |              |
+|      |  3/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |  [slides]() [video]() |               |
+|    |  5/3     |     Lab       |       Work on Lab assignment 3 (SVD/Recommendation Systems) / Work on project                                   |       |              |
+|   10   |  8/3     |           |   Convolutional Neural Networks (CNNs)     |    [slides]() [video]()  |              |
+|      |  10/3     |    | CNN Applications             |    [slides]() [video]()   |              |
+|     |  12/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
+|   11   |  15/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
+|      |  17/3     |      | GRU, LSTM and Transformer models                    |  |              |
+|   |  19/3      |     Lab      |    Work on project                    |       |                 |
+|  12    |  22/3      |         |  Guest lecture 1 (Deep Reinforcement Learning) |  [slides]() [video]() |     Given by  Diana Spencer                             |       |         |
+|      |  24/3      |         |    Guest lecture 2 (Deep Reinforcement Learning) |   [slides]() [video]() |     Given by  Diana Spencer           |
+|      |  26/3      |   Lab    |  Work on project ||               |
 |  13  |  29/3      |           |   Easter (No lecture)                                    |       |              |
 |      |  1/4     |           |    Easter (No lecture) |        |              |
 |      |  3/4     |           |     Easter (No lab)                     |     |              |
-|  14    |  5/4      |         |  Easter (No lecture)  |   |                                |       |         |
-|      |  7/4      |         |    Guest lecture 1 (Deep Reinforcement Learning) |   [slides]() [video]() |     Given by  Diana Spencer           |
-|      |  9/4      |   Lab    |  Work on project ||               |
-|  15  |  12/4     |           |     Deep learning on graphs (network embeddings)                           |       |              |
-|      |  14/4     |           |  Clustering (K-means, K-medoids)    |    [slides]() [video]()      |              |
-|      |  16/4      |       |  Work on project ||               |
-|   16   |  19/4     |           |    Clustering (Hierarchical, EM)                  |   [slides]() [video]()     |              |
-|      |  21/4      |         |   Guest lecture 3 (Time series analysis) |   [slides]() [video]() |     Given by  Magnus Book            |
-|    |  23/4     |      Lab        |  **Project + report due**                                         |       |              |
-|   17   |  26/4     |         |   Project presentation + Q&A       |         |              |
-|      |  28/4     |    |  Project presentation + Q&A                   |       |              |
-|      |  30/4     |    |  Project presentation + Q&A                   |       |              |
+|  14  |  5/4     |           |     Easter (No lecture)                            |       |              |
+|      |  7/4     |           |  Deep learning on graphs (network embeddings)  |    [slides]() [video]()      |              |
+|      |  9/4      |       |  Work on project ||               |
+|   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |   [slides]() [video]()     |              |
+|      |  14/4      |         |   Guest lecture 3 (Time series analysis) |   [slides]() [video]() |     Given by  Magnus Book            |
+|    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
+|   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
+|      |  21/4     |    |  Project presentation + Q&A                   |       |              |
