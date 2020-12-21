@@ -7,7 +7,8 @@
 # Updates
 
 # Course Structure
-- The course is currently fully online including the lectures and the labs until further notice
+- The lectures are currently fully online until further notice
+- The labs are online in week 1 and 2 and the rest will be hybrid (you can show up physically with a prior appointment with the TAs)
 - Video lectures for a week will be posted by Sunday before before the week
 - Live zoom call discussions will happen during the lecture
 - Make an appointment with the student assistants for the help with lab
