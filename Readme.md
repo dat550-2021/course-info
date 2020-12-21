@@ -11,7 +11,7 @@
 - First lecture will happen live on 4th Januaray 2021 12-2 pm.
 - The labs are online in week 1 and 2 and the rest will be hybrid (you can show up physically with a prior appointment with the TAs)
 - Video lectures for a week will be posted on Youtube by Sunday before before the week
-- We assume that you watch the videos and come to the live zoom call discussions which will happen during the lecture time
+- We assume that you watch the videos and come to the live zoom call discussions which will happen during the lecture time (zoom link will be shared in canvas)
 - Make an appointment with the student assistants for the help with lab
 - 3 ungraded (pass/fail) mandatory assignments for qualification to final exam
 - 40% of the final grade is assigned to the group project (working code + written report + presentation)
