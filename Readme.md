@@ -1,3 +1,4 @@
+# Course info page of DAT550 (Data Mining and Deep Learning, Spring 2021)
 # Overview
 - [Course Structure](#Structure)
 - [Labs](#Labs)
