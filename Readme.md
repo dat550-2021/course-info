@@ -51,7 +51,7 @@ You need to sign up for a GitHub account to get access to the needed course mate
 ## Autograder Registration
 
 Follow the steps below to register and sign up for the course on Autograder.
-Here are two short videos describing these steps in the context of a different course DAT320 (same steps should work with DAT550): [Part 1](https://youtu.be/3KJm4ABvTAo) and [Part 2](https://youtu.be/kMyH_-8xMGc).
+Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder) describing these steps in the context of a different course DAT320 (same steps should work with DAT550): [Part 1](https://youtu.be/3KJm4ABvTAo) and [Part 2](https://youtu.be/kMyH_-8xMGc).
 
 1. Go to [GitHub](http://github.com) and register.
    A GitHub account is required to sign in to Autograder.
