@@ -113,15 +113,15 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 
 7. Click the “Create” button.
 
-<!-- ## Discord DAT550 Server Registration
+## Discord DAT550 Server Registration
 
 1. Go to [Discord](https://discord.com/register) and register.
    A Discord account is required to sign in to communicate with the teaching staff during lab hours.
    You can skip this step if you already have an account.
 
-2. To join our DAT550-2021 Discord server, navigate [here](https://discord.gg/9B5BFkC).
+2. To join our DAT550-2021 Discord server, navigate [here](https://discord.gg/XbZhc9eQhx).
 
-3. Once connected to the server, please register with our bot, `@dat550-help-bot`, by sending it a direct message:
+3. Once connected to the server, please register with our bot, `@dat550_helperbot`, by sending it a direct message:
 
    ```text
    !register username
@@ -133,7 +133,7 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
    Hence, please make sure that you have joined the [`dat550-2021`](https://github.com/dat550-2021) GitHub organization and registered with Autograder first.
 
    If you need help with registering on the server, send a message in `#new-users`.
- -->
+ 
 # Schedule
 
 (Lab submission deadlines are marked with **bold**.)
