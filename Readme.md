@@ -119,7 +119,7 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
    A Discord account is required to sign in to communicate with the teaching staff during lab hours.
    You can skip this step if you already have an account.
 
-2. To join our DAT550-2021 Discord server, navigate [here](https://discord.gg/XbZhc9eQhx).
+2. To join our UiS DAT550 Discord server, navigate [here](https://discord.gg/XbZhc9eQhx).
 
 3. Once connected to the server, please register with our bot, `@dat550_helperbot`, by sending it a direct message:
 
