@@ -140,7 +140,7 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  1   |  4/1      |   1,2     |  Introduction          |   [slides]() [video]()      |              |
+|  1   |  4/1      |   1,2     |  Introduction          |   [slides](https://stavanger.instructure.com/courses/8152/files?preview=883882) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-01-introduction-video)      |              |
 |      |  6/1      |   2        | Data processing       |   [slides]() [video]()   |              |
 |      |  8/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       [hands-on-1](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-1) |              |
 |  2   |  11/1     |   2       | Data sampling, exploration, visualization  |   [slides]() [video](), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
