@@ -6,7 +6,11 @@
 - [Updates](#Updates)
 
 # Updates
-
+   - Dec 30 2020
+      - First zoom session on Jan 4th 2021 at 12.15 pm is confirmed
+      - Lectures 1 and 2 slides and videos are posted
+      - Autograder is ready and assignment 1 is published
+   
 # Structure
 - Lectures:
    - The lectures are currently fully online until further notice
