@@ -125,7 +125,9 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 
 2. To join our UiS DAT550 Discord server, navigate [here](https://discord.gg/XbZhc9eQhx).
 
-3. Once connected to the server, please register with our bot, `@dat550_helperbot`, by sending it a direct message:
+3. Make sure you are registered in autograder and you have accepted all invitations from github to join the [`dat550-2021`](https://github.com/dat550-2021) GitHub organization before next step.
+
+4. Once connected to the server, please register with our bot, `@dat550_helperbot`, by sending it a direct message:
 
    ```text
    !register username
@@ -134,7 +136,7 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
    where `username` is your GitHub username.
 
    Note that to register with the bot, you must previously have registered with Autograder.
-   Hence, please make sure that you have joined the [`dat550-2021`](https://github.com/dat550-2021) GitHub organization and registered with Autograder first.
+   Hence, please make sure that you have joined the [`dat550-2021`](https://github.com/dat550-2021) GitHub organization and registered with Autograder first. Make sure you have accepted all the Github invitations before registering in Discord.
 
    If you need help with registering on the server, send a message in `#new-users`.
  
