@@ -149,10 +149,10 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 |  1   |  4/1      |   1,2     |  Introduction          |   [slides](https://stavanger.instructure.com/courses/8152/files/883882?module_item_id=126130) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-01-introduction-video?module_item_id=126126)      |              |
 |      |  6/1      |   2        | Data processing       |   [slides](https://stavanger.instructure.com/courses/8152/files/883883?module_item_id=126129) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-02-data-video?module_item_id=126127)   |              |
 |      |  8/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       [hands-on-1](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-1) |              |
-|  2   |  11/1     |   2       | Data sampling, exploration, visualization  |   [slides]() [video](), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
-|      |  13/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673527)      |              |
+|  2   |  11/1     |   2       | Data sampling, exploration, visualization  |   [slides](https://stavanger.instructure.com/courses/8152/files?preview=884977) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-03-data-exploration-video), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
+|      |  13/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673527)[video](https://stavanger.instructure.com/courses/8152/pages/lecture-04-decision-trees)     |              |
 |     |  15/1     |    Lab       |   Work on lab assignment 1                      |       |              |
-|   3   |  18/1     |    3       |   Decision trees regression                                  |   [slides]() [video]()     |              |
+|   3   |  18/1     |    3       |   Evaluation, Decision trees regression                                  |   [slides]() [video]()     |              |
 |      |  20/1     |    6       |  Ensemble methods, Random forests   |   [slides]() [video]()       |              |
 |      |  22/1    |          |  Lab assignment 1 continued                     |       |              |
 |   4   |  25/1     |  ch 3 from MMDS book         |    Locality Sensitive Hashing (LSH)      |   [slides]() [video]()   |              |
