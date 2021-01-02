@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Jan 02 2021
+      - Lectures 3 and 4 slides are videos are posted
    - Dec 30 2020
       - First zoom session on Jan 4th 2021 at 12.15 pm is confirmed
       - Lectures 1 and 2 slides and videos are posted
