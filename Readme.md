@@ -37,7 +37,6 @@ for students and teaching staff to manage the submission and validation of
 lab assignments. All lab submissions from students are handled using Git,
 a source code management system, and GitHub, a web-based hosting service for
 Git source repositories. Thus, basic knowledge of these tools are necessary.
-The procedure used to submit your lab assignments is explained in the [lab submission process](lab-submission.md).
 
 Students push their updated lab submissions to GitHub. Every lab submission is
 then processed by a custom continuous integration tool. This tool will run
@@ -45,6 +44,7 @@ several test cases on the submitted code. Autograder generates feedback that
 let the students verify if their submission implements the required functionality.
 This feedback is available through a web interface. The feedback from the
 Autograder system can be used by students to improve their submissions.
+
 
 ## Git and GitHub
 
@@ -94,7 +94,12 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 
 5. Once you have accepted the invitations, you will get your own repository under `dat550-2021`, which is the course's organization on GitHub.
 
+## Submitting the assignment once it is working
+The procedure used to submit your lab assignments is explained in the [lab submission process](lab-submission.md).
+
 ## Group Signup on Autograder
+
+Projects will be done in groups. So this step is only needed once you are ready to work on your project.
 
 1. Read the [policy about group assignments](policy.md#group-assignments).
    Find and agree with another student to form a group.
