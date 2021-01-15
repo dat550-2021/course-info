@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Jan 15 2021
+      - Lecture 5 (Evaluation) and Lecture 6 (Regression Trees and Ensemble methods) are posted
    - Jan 02 2021
       - Lectures 3 (Data Exploration) and Lecture 4 (Decision Trees) slides are videos are posted
    - Dec 30 2020
@@ -173,8 +175,8 @@ Projects will be done in groups. So this step is only needed once you are ready 
 |  2   |  11/1     |   2       | Data sampling, exploration, visualization  |   [slides](https://stavanger.instructure.com/courses/8152/files?preview=884977) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-03-data-exploration-video), [hands-on-2](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-2) |             |
 |      |  13/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/8152/files?preview=884979)[video](https://stavanger.instructure.com/courses/8152/pages/lecture-04-decision-trees)     |              |
 |     |  15/1     |    Lab       |   Work on lab assignment 1                      |       |              |
-|   3   |  18/1     |    3       |   Evaluation, Decision trees regression                                  |   [slides]() [video]()     |              |
-|      |  20/1     |    6       |  Ensemble methods, Random forests   |   [slides]() [video]()       |              |
+|   3   |  18/1     |    3       |   Evaluation, Decision trees regression                                  |   [regression tree slides](https://stavanger.instructure.com/courses/8152/files/894471?module_item_id=129901) [regression tree video](https://stavanger.instructure.com/courses/8152/pages/lecture06-part1-algorithms-for-building-regression-trees) [Evaluation slides](https://stavanger.instructure.com/courses/8152/files/884980?module_item_id=126308) [Evaluation video](https://stavanger.instructure.com/courses/8152/pages/lecture-05-evaluation-video?module_item_id=126309)     |              |
+|      |  20/1     |    6       |  Ensemble methods, Random forests   |   [slides](https://stavanger.instructure.com/courses/8152/files/894470?module_item_id=129900) [video](https://stavanger.instructure.com/courses/8152/pages/lecture-06-regression-trees-and-ensemble-methods-video?module_item_id=129902)       |              |
 |      |  22/1    |          |  Lab assignment 1 continued                     |       |              |
 |   4   |  25/1     |  ch 3 from MMDS book         |    Locality Sensitive Hashing (LSH)      |   [slides]() [video]()   |              |
 |      |  27/1     |             |  LSH Continued       |        |              |
