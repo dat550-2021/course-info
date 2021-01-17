@@ -145,9 +145,9 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    our course assignments repo into your working copy, with the following command:
 
    ```console
-   git pull course-assignments master
+   git pull course-assignments master --allow-unrelated-histories
    ```
-
+   
 2. If there are conflicting changes, you will need to edit the files with conflicts.
    Normally, the conflicts are relatively straight forward to fix by picking one of
    the two changes: (i) your local change, or (2) the course assignment change.
