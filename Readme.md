@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Jan 28 2021
+      - Lecture 7 (LSH) slides, video and exercise are published
    - Jan 15 2021
       - Lecture 5 (Evaluation) and Lecture 6 (Regression Trees and Ensemble methods) are posted
       - Zoom recording for the lab session from week 2 is posted
