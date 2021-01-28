@@ -187,7 +187,7 @@ Projects will be done in groups. So this step is only needed once you are ready 
 |       |  3/2     |          | Recommender Systems (Collaborative Filtering)   |  [slides]() [video]()      |            |
 |      |  5/2     |    Lab      |  Work on Lab assignment 2 (LSH)  |         |            |
 |   6   |  8/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides]() [video]()   [Exercise](https://github.com/dat550-2021/course-info/blob/master/exercises/Exercise-3.pdf) |              |
-|      |  10/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides]() [video]()       |              |
+|      |  10/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides](https://stavanger.instructure.com/courses/8152/files/872843?module_item_id=130491)  [video](https://stavanger.instructure.com/courses/8152/pages/lecture07-locality-sensitive-hashing-video)       |              |
 |      |  12/2     |    Lab      |  Work on Lab assignment 2 (LSH)       |         |            |
 |  7    |  15/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5](https://github.com/dat550-2021/course-info/tree/master/hands-on/hands-on-5)    |              |
 |      |  17/2     |   6        |    Linear Regression  |  [slides]() [video]()     |              |
