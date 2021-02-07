@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Feb 02 2021
+      - Lecture 8 (Dimensionality Reduction) video and exercises are published
    - Jan 28 2021
       - Lecture 7 (LSH) slides, video and exercise are published
    - Jan 15 2021
