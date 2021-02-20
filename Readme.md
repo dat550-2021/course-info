@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Feb 20 2021
+      - Assignment 3 is public!
    - Feb 02 2021
       - Lecture 8 (Dimensionality Reduction) video and exercises are published
    - Jan 28 2021
