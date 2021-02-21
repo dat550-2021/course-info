@@ -19,4 +19,12 @@
     - Train a classifier for the hyperpartisan news detection
     - More details on the task is defined here 
 
-5. 
+5. Reinforcement learning
+    - In this project, students can experiment and learn about various reinforcement learning algorithms within the arena of Atari games from OpenAI's gym. 
+    - This project will give students the opportunity to explore the challenges and tradeoffs associated with different algorithms. 
+    - Students are welcome to apply algorithms from well-known libraries, ie. stable-baselines.
+    - Resources: 
+        - https://stable-baselines3.readthedocs.io/en/master/
+        - https://gym.openai.com/envs/#atari
+
+More topics coming!
