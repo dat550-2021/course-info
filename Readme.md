@@ -6,6 +6,8 @@
 - [Updates](#Updates)
 
 # Updates
+   - Feb 21 2021
+      - Mini projects announced [here](mini_projects.md)
    - Feb 20 2021
       - Assignment 3 is public!
    - Feb 02 2021
