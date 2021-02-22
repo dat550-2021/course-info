@@ -34,7 +34,7 @@
 7. Watermarking neural networks
     - Implementation of a custom loss function for a neural network with evaluation for different types of model stealing attacks, similar (and possibly an extension to) these two papers:
 
-https://dl.acm.org/doi/pdf/10.1145/3297858.3304051
-https://dl.acm.org/doi/pdf/10.1145/3323873.3325042
+        - https://dl.acm.org/doi/pdf/10.1145/3297858.3304051
+        - https://dl.acm.org/doi/pdf/10.1145/3323873.3325042
 
 More topics coming!
