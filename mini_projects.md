@@ -27,4 +27,9 @@
         - https://stable-baselines3.readthedocs.io/en/master/
         - https://gym.openai.com/envs/#atari
 
+6. Stock market analysis: Finding the seasonality and trend
+
+In this project you will investigate several stocks of your choosing to compare their seasonality and trend. Try choosing some stocks that are seasonal, like airlines, air conditioning, heating, etc. Decompose the stocks that you choose and discuss their seasonality and trend. Using one or more ARIMA models, try to predict the future price of the stock. The data is gathered from yahoo Finance, and can be accessed throug the yahoo-finance python library (https://pypi.org/project/yahoo-finance/).
+
+
 More topics coming!
