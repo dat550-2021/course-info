@@ -2,7 +2,7 @@
 
 
 * Decide the topic (see [topics](mini_projects.md))
-  * Specify the preferences here [TODO: Link coming soon]
+  * Specify the preferences [here](https://forms.gle/oPEK8kD5nbS5GoKY6)
 * Register your team in autograder (group registration)
 * Check if know the task clearly, 
   * Is it supervised? or unsupervised task?
