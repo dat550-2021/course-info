@@ -1,7 +1,7 @@
 ## Guidelines for the project:
 
 
-* Decide the topic (see [topics](project-topics.md))
+* Decide the topic (see [topics](mini_projects.md))
   * Specify the preferences here [TODO: Link coming soon]
 * Register your team in autograder (group registration)
 * Check if know the task clearly, 
