@@ -29,7 +29,12 @@
 
 6. Stock market analysis: Finding the seasonality and trend
 
-In this project you will investigate several stocks of your choosing to compare their seasonality and trend. Try choosing some stocks that are seasonal, like airlines, air conditioning, heating, etc. Decompose the stocks that you choose and discuss their seasonality and trend. Using one or more ARIMA models, try to predict the future price of the stock. The data is gathered from yahoo Finance, and can be accessed throug the yahoo-finance python library (https://pypi.org/project/yahoo-finance/).
+- In this project you will investigate several stocks of your choosing to compare their seasonality and trend. Try choosing some stocks that are seasonal, like airlines, air conditioning, heating, etc. Decompose the stocks that you choose and discuss their seasonality and trend. Using one or more ARIMA models, try to predict the future price of the stock. The data is gathered from yahoo Finance, and can be accessed throug the yahoo-finance python library (https://pypi.org/project/yahoo-finance/).
 
+7. Watermarking neural networks
+    - Implementation of a custom loss function for a neural network with evaluation for different types of model stealing attacks, similar (and possibly an extension to) these two papers:
+
+https://dl.acm.org/doi/pdf/10.1145/3297858.3304051
+https://dl.acm.org/doi/pdf/10.1145/3323873.3325042
 
 More topics coming!
