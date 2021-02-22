@@ -37,4 +37,8 @@
         - https://dl.acm.org/doi/pdf/10.1145/3297858.3304051
         - https://dl.acm.org/doi/pdf/10.1145/3323873.3325042
 
+8. Fake news detection using snopes and poltificat data
+    - In this project students will implement various classifiers using both neural and feature based technqiues to detect false claims from the Snopes and Politifact data.
+    - Dataset is available here https://drive.google.com/file/d/1OcSQW1_bqahgKn5krQWY9Le8VGyY2utX/view?usp=sharing
+
 More topics coming!
