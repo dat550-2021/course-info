@@ -63,7 +63,7 @@ Autograder system can be used by students to improve their submissions.
 All the three lab assignments must be completed to satisfaction (passed) in order to sit for the exam. Cooperating for assignments is tolerated only at the high level ideas but copying code is not allowed.
 
 ### Projects
-The project accounts the 40 % of your grade. You will get a grade based on the novelty, quality and complexity of the project, along with the ability to show use of appropriate models, preprocessing techniques and evaluation strategies. The projects are done in groups of 2-3. 
+The project accounts the 40 % of your grade. You will get a grade based on the novelty, quality and complexity of the project, along with the ability to show use of appropriate models, preprocessing techniques and evaluation strategies. The projects are done in groups of 2-4. 
 
 ### Plagiarism Warning  
 
