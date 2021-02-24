@@ -6,6 +6,10 @@
 - [Updates](#Updates)
 
 # Updates
+   - Feb 21 2021
+      - Mini projects announced [here](mini_projects.md)
+   - Feb 20 2021
+      - Assignment 3 is public!
    - Feb 02 2021
       - Lecture 8 (Dimensionality Reduction) video and exercises are published
    - Jan 28 2021
@@ -59,7 +63,7 @@ Autograder system can be used by students to improve their submissions.
 All the three lab assignments must be completed to satisfaction (passed) in order to sit for the exam. Cooperating for assignments is tolerated only at the high level ideas but copying code is not allowed.
 
 ### Projects
-The project accounts the 40 % of your grade. You will get a grade based on the novelty, quality and complexity of the project, along with the ability to show use of appropriate models, preprocessing techniques and evaluation strategies. The projects are done in groups of 2-3. 
+The project accounts the 40 % of your grade. You will get a grade based on the novelty, quality and complexity of the project, along with the ability to show use of appropriate models, preprocessing techniques and evaluation strategies. The projects are done in groups of 2-4. 
 
 ### Plagiarism Warning  
 
