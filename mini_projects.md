@@ -40,5 +40,19 @@
 8. Fake news detection using snopes and poltificat data
     - In this project students will implement various classifiers using both neural and feature based technqiues to detect false claims from the Snopes and Politifact data.
     - Dataset is available here https://drive.google.com/file/d/1OcSQW1_bqahgKn5krQWY9Le8VGyY2utX/view?usp=sharing
+    
+9. Detect claims to fact check in political debates
+    - In this project you will implement various classifiers using both neural and feature based technqiues to detect which sentences in political debates should be fact checked. 
+    - Dataset from ClaimBuster: https://zenodo.org/record/3609356
+    - Evaluate your classifiers using the same metrics as http://ranger.uta.edu/~cli/pubs/2017/claimbuster-kdd17-hassan.pdf (Table 2)
+        - Classification report from sklearn provides everything
+        - Group crowdsourced.csv and groundtruth.csv into one dataset. Use debates from 1960-2008 for training (27 first debates) and 2012-2016 for testing (6 last debates)
+        - Create a baseline model: Should be fairly simple one, e.g. SVM, Random Forest, Logistic regression using TF-IDF or other features of your choice. Aim for 60% or more for f1 weighted average.
+        - Create advanced model(s) (suggestions are given below)
+            - Generate more features that a model can use. For example the context around the sentence, sentiment, named entities etc.    
+            - Rule based classifier. For example, if sentence contains certain words, tags, statistics etc.
+            - Deep learning (word embeddings, transformer models etc.)
+            - Sub-sentence classifier. Long sentences may include several claims, so the goal is to mark the span of claim(s) within a sentence
+
 
 More topics coming!
