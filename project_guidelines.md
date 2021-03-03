@@ -26,7 +26,11 @@
   * Possibly ensemble techniques like random forest or adaboost work better
   * Possibly a new method, or novel set of features for the same methods
 * Experiments 
-  * paramter tuning (learning rate, number of clusters etc)
+  * paramter tuning 
+   - Learning rate, regurlarization parameter, dropout etc 
+   - Depth and width of neural network
+   - Model specific parameters for CNNs and RNNS or any other type of neural network you are training
+   - For unsupervised techniques cluster size etc
   * compare all the approaches
   * document the limitations of all the approaches you try
   * Choose the best performing method and do more detailed analysis
