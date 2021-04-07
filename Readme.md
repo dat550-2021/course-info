@@ -222,7 +222,7 @@ Projects will be done in groups. So this step is only needed once you are ready 
 |      |  7/4     |           | Recurrent Neural Networks and RNNs for Text Data |    [slides]() [video]()      |              |
 |      |  9/4      |       |  Work on project ||               |
 |   15   |  12/4     |           |                        |   [slides]() [video]()     |              |
-|      |  14/4      |         |   Clustering (K-means, K-medoids, Spectral, EM)  |   [slides]() [video]() |     Given by  Magnus Book            |
+|      |  14/4      |         |   Clustering (K-means, K-medoids, Spectral, EM)  |   [slides]() [video]() |                |
 |    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
 |   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
 |      |  21/4     |    |  Project presentation + Q&A                   |       |              |
