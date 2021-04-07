@@ -209,7 +209,7 @@ Projects will be done in groups. So this step is only needed once you are ready 
 |   10   |  8/3     |           |   Convolutional Neural Networks (CNNs)     |    [slides]() [video]()  |              |
 |      |  10/3     |    | CNN Applications             |    [slides]() [video]()   |              |
 |     |  12/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
-|   11   |  15/3     |       |    Recurrent Neural Networks       | [slides]() [video]()   |              |
+|   11   |  15/3     |       |           | [slides]() [video]()   |              |
 |      |  17/3     |      | GRU, LSTM and Transformer models                    |  |              |
 |   |  19/3      |     Lab      |    Work on project                    |       |                 |
 |  12    |  22/3      |         |  Guest lecture 1 (Deep Reinforcement Learning) |  [slides]() [video]() |     Given by  Diana Spencer                             |       |         |
@@ -219,10 +219,10 @@ Projects will be done in groups. So this step is only needed once you are ready 
 |      |  1/4     |           |    Easter (No lecture) |        |              |
 |      |  3/4     |           |     Easter (No lab)                     |     |              |
 |  14  |  5/4     |           |     Easter (No lecture)                            |       |              |
-|      |  7/4     |           |  Deep learning on graphs (network embeddings)  |    [slides]() [video]()      |              |
+|      |  7/4     |           | Recurrent Neural Networks and RNNs for Text Data |    [slides]() [video]()      |              |
 |      |  9/4      |       |  Work on project ||               |
-|   15   |  12/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |   [slides]() [video]()     |              |
-|      |  14/4      |         |   Guest lecture 3 (Time series analysis) |   [slides]() [video]() |     Given by  Magnus Book            |
+|   15   |  12/4     |           |                        |   [slides]() [video]()     |              |
+|      |  14/4      |         |   Clustering (K-means, K-medoids, Spectral, EM)  |   [slides]() [video]() |     Given by  Magnus Book            |
 |    |  16/4     |      Lab        |  **Project + report due**                                         |       |              |
 |   16   |  19/4     |         |   Project presentation + Q&A       |         |              |
 |      |  21/4     |    |  Project presentation + Q&A                   |       |              |
