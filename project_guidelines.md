@@ -46,4 +46,4 @@
 * Presentation
   * 5-10 minutes presentation per team
   * Discuss the problem, data, interesting findings etc
-  * Project presentation can be in person (if allowed). Otherwise each team needs to send a video recording of the presentation with voice over (10 minutes max per team). I will setup a call on zoom with each team for a Q&A session after that. Exact date for the presentation will be coming soon!
+  * In person project presentations are not preferred. Threfore, each team needs to send a video recording of the presentation with voice over (10 minutes max per team). I will setup a call on zoom with each team for a Q&A session after that. Exact date for the presentation will be coming soon! Or optionally you can do it in the presentation + Q&A in a zoom call jointly live.
