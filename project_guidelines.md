@@ -48,5 +48,5 @@
   * Discuss the problem, data, interesting findings etc
   * In person project presentations are not preferred. Threfore, each team needs to send a video recording of the presentation with voice over (10 minutes max per team). I will setup a call on zoom with each team for a Q&A session after that. Exact date for the presentation will be coming soon! Or optionally you can do it in the presentation + Q&A in a zoom call jointly live.
  * Deadline
-  - Deadline for project code (in github), report and presentation video is extended to 23.04.2021 (end of the day CET)
-  - Live zoom presentations will happen on 26th and 28th April (12-2). Doodle poll will be sent out soon for choosing time slots. Each team gets 10 minutes for presentation + 5 minutes for Q&A
+   * Deadline for project code (in github), report and presentation video is extended to 23.04.2021 (end of the day CET)
+   * Live zoom presentations will happen on 26th and 28th April (12-2). Doodle poll will be sent out soon for choosing time slots. Each team gets 10 minutes for presentation + 5 minutes for Q&A
