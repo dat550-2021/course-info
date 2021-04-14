@@ -41,11 +41,12 @@
   * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (Here is the link to the template on [overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt))
   * Writing should be high quality technical writing not copy pasting think of this as a writing practice for your thesis (Refer to this [book](https://pingpong.chalmers.se/public/pp/public_courses/course08583/published/1510227352918/resourceId/4156227/content/Zobel%20-%20Writing%20for%20computer%20science%203rd%20edition.pdf) for tips on good writing )
   * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
+  * Don't forget to include the github link to your code in the report along with a README.md in github repository which mentions how to reproduce your results in the report.
   * Very important: Document who did what and justify you did equal share of the tasks
 * Presentation
   * 5-10 minutes presentation per team
   * Discuss the problem, data, interesting findings etc
   * In person project presentations are not preferred. Threfore, each team needs to send a video recording of the presentation with voice over (10 minutes max per team). I will setup a call on zoom with each team for a Q&A session after that. Exact date for the presentation will be coming soon! Or optionally you can do it in the presentation + Q&A in a zoom call jointly live.
  * Deadline
-  * Deadline for project code (in github), report and presentation video is extended to 23.04.2021 (end of the day CET)
-  * Live zoom presentations will happen on 26th and 28th April (12-2). Doodle poll will be sent out soon for choosing time slots. Each team gets 10 minutes for presentation + 5 minutes for Q&A
+  - Deadline for project code (in github), report and presentation video is extended to 23.04.2021 (end of the day CET)
+  - Live zoom presentations will happen on 26th and 28th April (12-2). Doodle poll will be sent out soon for choosing time slots. Each team gets 10 minutes for presentation + 5 minutes for Q&A
